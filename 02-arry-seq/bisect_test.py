@@ -1,4 +1,8 @@
 #coding=utf8
+"""
+bisect使用详情查看博客：https://walkmanchen.github.io/2017/06/21/bisect%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9D%97/
+"""
+
 import bisect
 grades = 'FEDCBA'
 breakpoints = [3, 20, 34, 43, 45, 54]
